@@ -1,6 +1,6 @@
 public class prime{
 public static void main(String args[]){
-  int num=50;
+  int num=55;
   prime pm=new prime();
   pm.check(num);
       }
